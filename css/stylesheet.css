@@ -1,0 +1,12 @@
+body{
+  background-color: yellow;
+  margin: 50px;
+}
+.form email [type="email"] {
+  width:40%;
+  margin-right: -40px;
+}
+
+#email-value {
+  display: none;
+}
